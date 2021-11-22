@@ -1,0 +1,5 @@
+# Project exclude paths
+/commom/commom_utils/target/
+/commom/service_base/target/
+/service/service-oss/target/
+/service/service_edu/target/
